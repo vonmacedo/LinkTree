@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=League+Gothic&display=swap');
+*{
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: white;
+    font-family:'Kanit',sans-serif ;
+}
+
+.container{
+text-align: center;
+width: 300px;
+margin: 1em auto;
+}
+
+.foto{
+    margin-top:5px;
+  width: 100%;
+  width: 100px;
+  border-radius: 50px;
+margin-left: 48px;
+
+
+}
+ .dog{
+    width: 29px;
+    margin-right: 8px;
+ }   
+
+h1{
+    font-size: 32px;
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+p{
+    font-weight: 400;
+
+    opacity: 0.8;
+    font-size: 18px;
+}
+
+h1{font-size: 32px
+    ;}
+
+    ul{
+        list-style: none;
+        margin-top: 20px;
+       margin-bottom: 10px;
+    }
+     ul li a{
+        height: 53px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: darkcyan;
+        color: white;
+        font-size:25px;
+        margin-bottom: 16px;
+        border-radius: 20px;
+        font-family: 'League Gothic',sans-serif;
+     }
